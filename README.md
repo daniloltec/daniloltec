@@ -7,9 +7,9 @@
 
 ## 📊 GitHub Stats
 
-![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&count_private=true)
+![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=daniloltec&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniloltec&layout=compact&theme=tokyonight)
 
 ---
 

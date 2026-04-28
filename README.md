@@ -53,7 +53,7 @@ Evoluir para a área de **DevOps**, unindo minha experiência em infraestrutura 
 
 ## 🤖 Aprendizado com IA
 
-Atualmente utilizo **Inteligência Artificial** como apoio para acelerar meus estudos, projetos e evolução técnica.
+Atualmente utilizo **Inteligência Artificial** como apoio para acelerar meus estudos, projetos e evolução técnica.<br>
 ![GPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![CLAUDE](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 

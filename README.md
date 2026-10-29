@@ -70,6 +70,12 @@ Evoluir para **programador fullstack**, unindo a experiência em infraestrutura 
 
 ![Activity Graph](https://github-act-graph.rodriaum.com/graph?username=daniloltec&theme=tokyo-night&hide_border=true&area=true&custom_title=Gr%C3%A1fico%20de%20contribui%C3%A7%C3%B5es)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daniloltec/daniloltec/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daniloltec/daniloltec/output/github-contribution-grid-snake.svg" />
+  <img alt="Cobrinha comendo os commits" src="https://raw.githubusercontent.com/daniloltec/daniloltec/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 ---

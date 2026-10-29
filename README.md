@@ -15,17 +15,9 @@ Analista de Suporte e Infraestrutura · em transição para **programador fullst
 
 ---
 
-## 🧠 Sobre mim
-
-Sou profissional de tecnologia com experiência desde **2014**, com uma trajetória sólida dentro da área de TI.
-
-Hoje atuo como **Analista de Suporte e Infraestrutura de TI**, com foco em ambientes corporativos, redes e suporte técnico.
-
-Sou apaixonado por tecnologia, sempre buscando evoluir e me adaptar às novas tendências do mercado.
-
----
-
 ## 🗺️ Trajetória
+
+Na área de TI desde **2014**.
 
 | Etapa | O que fiz |
 | --- | --- |

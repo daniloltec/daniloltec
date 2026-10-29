@@ -17,16 +17,30 @@ Analista de Suporte e Infraestrutura · em transição para **programador fullst
 
 ## 🗺️ Trajetória
 
-Na área de TI desde **2014**. A linha segue a evolução, sem datas.
+Na área de TI desde **2014**.
 
-```mermaid
-timeline
-    Início : Instrutor de informática : Ensino e acompanhamento
-    Evolução : Coordenador pedagógico : Liderança e gestão
-    Redes : Telecomunicações : Redes de pequeno a grande porte
-    Hoje : Analista de Suporte e Infraestrutura : Ambientes corporativos
-    Próximo : Programador fullstack : Front-end ao back-end
-```
+> **Instrutor de informática**
+> Ensino e acompanhamento no uso da tecnologia
+>
+> ↓
+>
+> **Coordenador pedagógico**
+> Liderança e gestão
+>
+> ↓
+>
+> **Telecomunicações**
+> Redes de pequeno, médio e grande porte
+>
+> ↓
+>
+> **Analista de Suporte e Infraestrutura** · hoje
+> Ambientes corporativos
+>
+> ↓
+>
+> **Programador fullstack** · próximo
+> Do front-end ao back-end
 
 ---
 

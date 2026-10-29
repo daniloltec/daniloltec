@@ -19,14 +19,22 @@ Analista de Suporte e Infraestrutura de TI · em transição para **programador 
 
 Na área de TI desde **2014**. Atualmente trabalho como **Analista de Suporte e Infraestrutura de TI** e estudo programação fullstack.
 
+![TI desde 2014](https://img.shields.io/badge/TI_desde-2014-7AA2F7?style=for-the-badge)
+![Suporte e Infraestrutura](https://img.shields.io/badge/Atual-Suporte_e_Infraestrutura-00599C?style=for-the-badge)
+![Estudando Fullstack](https://img.shields.io/badge/Estudando-Fullstack-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 Já desenvolvi aplicações mobile, plugins para o **GLPI** com o intuito de ajudar a comunidade, e pequenos sistemas.
+
+[![Apps mobile](https://img.shields.io/badge/Apps-mobile-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/daniloltec)
+[![GLPI](https://img.shields.io/badge/GLPI-plugins_para_a_comunidade-F15A22?style=for-the-badge)](https://glpi-project.org/)
+![Pequenos sistemas](https://img.shields.io/badge/Pequenos-sistemas-7DCFFF?style=for-the-badge)
 
 ---
 
 ## 🎓 Formação
 
-- Gestão de Tecnologia da Informação
-- Pós-graduação em Governança de TI
+![Gestão de TI](https://img.shields.io/badge/Gest%C3%A3o_de_Tecnologia_da_Informa%C3%A7%C3%A3o-9ECE6A?style=for-the-badge)
+![Pós em Governança de TI](https://img.shields.io/badge/P%C3%B3s_em_Governan%C3%A7a_de_TI-9ECE6A?style=for-the-badge)
 
 ---
 
@@ -34,9 +42,13 @@ Já desenvolvi aplicações mobile, plugins para o **GLPI** com o intuito de aju
 
 **Em aprendizado**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg)](https://developer.mozilla.org/docs/Web/CSS)
+[![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/docs/Web/JavaScript)
 
 **Infraestrutura e redes**
 
@@ -45,12 +57,15 @@ Já desenvolvi aplicações mobile, plugins para o **GLPI** com o intuito de aju
 
 **IDEs**
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+[![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg)](https://code.visualstudio.com/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.com/)
 
 ---
 
 ## 🚀 Objetivo
+
+![Programador fullstack](https://img.shields.io/badge/Objetivo-Programador_fullstack-BB9AF7?style=for-the-badge)
 
 Evoluir para **programador fullstack**, unindo a experiência em infraestrutura e suporte ao desenvolvimento de aplicações web completas, do front-end ao back-end.
 

@@ -2,7 +2,7 @@
 
 [![Olá, eu sou o Danilo Lima](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&height=60&lines=Ol%C3%A1%2C+eu+sou+o+Danilo+Lima;Bem-vindos+ao+meu+perfil)](https://git.io/typing-svg)
 
-Analista de Suporte e Infraestrutura · em transição para **programador fullstack**
+Analista de Suporte e Infraestrutura de TI · em transição para **programador fullstack**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniloltec)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daniloltec)

@@ -1,8 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Danilo Lima
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&height=50&lines=Analista+de+Suporte+e+Infraestrutura+de+TI;Em+transi%C3%A7%C3%A3o+para+Programador+Fullstack;Front-end%2C+back-end+e+aplica%C3%A7%C3%B5es+web)](https://git.io/typing-svg)
+[![Olá, eu sou o Danilo Lima](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&height=60&lines=Ol%C3%A1%2C+eu+sou+o+Danilo+Lima;Bem-vindos+ao+meu+perfil)](https://git.io/typing-svg)
 
 Analista de Suporte e Infraestrutura · em transição para **programador fullstack**
 

@@ -17,30 +17,9 @@ Analista de Suporte e Infraestrutura · em transição para **programador fullst
 
 ## 🗺️ Trajetória
 
-Na área de TI desde **2014**.
+Na área de TI desde **2014**. Atualmente trabalho como **Analista de Suporte e Infraestrutura de TI** e estudo programação fullstack.
 
-> **Instrutor de informática**
-> Ensino e acompanhamento no uso da tecnologia
->
-> ↓
->
-> **Coordenador pedagógico**
-> Liderança e gestão
->
-> ↓
->
-> **Telecomunicações**
-> Redes de pequeno, médio e grande porte
->
-> ↓
->
-> **Analista de Suporte e Infraestrutura** · hoje
-> Ambientes corporativos
->
-> ↓
->
-> **Programador fullstack** · próximo
-> Do front-end ao back-end
+Já desenvolvi aplicações mobile, plugins para o **GLPI** com o intuito de ajudar a comunidade, e pequenos sistemas.
 
 ---
 

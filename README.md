@@ -60,15 +60,15 @@ Evoluir para **programador fullstack**, unindo a experiência em infraestrutura 
 
 ## 📊 GitHub
 
-![Danilo GitHub stats](https://github-stats-extended.vercel.app/api?username=daniloltec&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![Danilo GitHub stats](https://github-stats-extended.vercel.app/api?username=daniloltec&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&locale=pt-br)
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=daniloltec&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=daniloltec&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=daniloltec&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=daniloltec&theme=tokyonight&hide_border=true&locale=pt_BR&timezone=America/Sao_Paulo)
 
 ![Trophies](https://trophy.ryglcloud.net/?username=daniloltec&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8)
 
-![Activity Graph](https://github-act-graph.rodriaum.com/graph?username=daniloltec&theme=tokyo-night&hide_border=true&area=true)
+![Activity Graph](https://github-act-graph.rodriaum.com/graph?username=daniloltec&theme=tokyo-night&hide_border=true&area=true&custom_title=Gr%C3%A1fico%20de%20contribui%C3%A7%C3%B5es)
 
 </div>
 

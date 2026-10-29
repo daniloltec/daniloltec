@@ -25,7 +25,7 @@ Na área de TI desde **2014**. Atualmente trabalho como **Analista de Suporte e 
 
 Já desenvolvi aplicações mobile, plugins para o **GLPI** com o intuito de ajudar a comunidade, e pequenos sistemas.
 
-[![Apps mobile](https://img.shields.io/badge/Apps-mobile-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/daniloltec)
+![Apps mobile](https://img.shields.io/badge/Apps-mobile-3DDC84?style=for-the-badge)
 [![GLPI](https://img.shields.io/badge/GLPI-plugins_para_a_comunidade-F15A22?style=for-the-badge)](https://glpi-project.org/)
 ![Pequenos sistemas](https://img.shields.io/badge/Pequenos-sistemas-7DCFFF?style=for-the-badge)
 
@@ -42,9 +42,9 @@ Já desenvolvi aplicações mobile, plugins para o **GLPI** com o intuito de aju
 
 **Em aprendizado**
 
-[![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg)](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg)](https://developer.mozilla.org/docs/Web/CSS)
-[![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="42" height="42" /></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="42" height="42" /></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" /></a>
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
@@ -57,7 +57,7 @@ Já desenvolvi aplicações mobile, plugins para o **GLPI** com o intuito de aju
 
 **IDEs**
 
-[![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg)](https://code.visualstudio.com/)
+<a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="42" height="42" /></a>
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.com/)
 

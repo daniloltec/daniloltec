@@ -2,9 +2,9 @@
 
 # 👋 Olá, eu sou o Danilo Lima
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&height=50&lines=Analista+de+Suporte+e+Infraestrutura+de+TI;Em+transi%C3%A7%C3%A3o+para+Desenvolvimento+Web+%26+DevOps;Infra+%2B+automa%C3%A7%C3%A3o+%2B+entrega+cont%C3%ADnua)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&height=50&lines=Analista+de+Suporte+e+Infraestrutura+de+TI;Em+transi%C3%A7%C3%A3o+para+Programador+Fullstack;Front-end%2C+back-end+e+aplica%C3%A7%C3%B5es+web)](https://git.io/typing-svg)
 
-Analista de Suporte e Infraestrutura · em transição para **Web & DevOps**
+Analista de Suporte e Infraestrutura · em transição para **programador fullstack**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniloltec)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daniloltec)
@@ -38,7 +38,7 @@ Sou profissional de tecnologia com experiência desde **2014**, com uma trajetó
 
 Hoje atuo como **Analista de Suporte e Infraestrutura de TI**, com foco em ambientes corporativos, redes e suporte técnico.
 
-Sou apaixonado por tecnologia e uso **inteligência artificial** como apoio para acelerar estudos, projetos e evolução técnica.
+Sou apaixonado por tecnologia, sempre buscando evoluir e me adaptar às novas tendências do mercado.
 
 </details>
 
@@ -53,7 +53,7 @@ Sou apaixonado por tecnologia e uso **inteligência artificial** como apoio para
 | Evolução | **Coordenador pedagógico**, desenvolvendo liderança e gestão |
 | Redes | **Telecomunicações**: montagem e manutenção de infraestruturas de pequeno, médio e grande porte |
 | Hoje | **Analista de Suporte e Infraestrutura de TI** em ambientes corporativos |
-| Próximo passo | **DevOps**, unindo infraestrutura, desenvolvimento e automação |
+| Próximo passo | **Programador fullstack**, construindo aplicações web do front-end ao back-end |
 
 </details>
 
@@ -83,10 +83,10 @@ Sou apaixonado por tecnologia e uso **inteligência artificial** como apoio para
 ![Networking](https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=cisco&logoColor=white)
 ![WiFi](https://img.shields.io/badge/WiFi-0078D4?style=for-the-badge&logo=wifi&logoColor=white)
 
-**Aprendizado com IA**
+**IDEs**
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 </details>
 
@@ -95,7 +95,7 @@ Sou apaixonado por tecnologia e uso **inteligência artificial** como apoio para
 <summary><b>🚀 Objetivo</b></summary>
 <br>
 
-Evoluir para a área de **DevOps**, unindo a experiência em infraestrutura com desenvolvimento, automação e cultura de entrega contínua.
+Evoluir para **programador fullstack**, unindo a experiência em infraestrutura e suporte ao desenvolvimento de aplicações web completas, do front-end ao back-end.
 
 </details>
 
@@ -127,7 +127,7 @@ Os cards abaixo atualizam sozinhos conforme a atividade do perfil.
 
 ## 📫 Vamos conversar
 
-Se quiser trocar ideia sobre infraestrutura, redes, suporte ou a transição para DevOps, me chama.
+Se quiser trocar ideia sobre desenvolvimento web, fullstack, infraestrutura ou suporte, me chama.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-daniloltec-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniloltec)
 [![GitHub](https://img.shields.io/badge/GitHub-daniloltec-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daniloltec)
